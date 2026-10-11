@@ -207,4 +207,4 @@ Statgraphics is offered as a full free version for Windows, enabling users to ac
 Unlock the potential of your data today by downloading Statgraphics. Experience comprehensive statistical analysis at your fingertips!
 
 ---
-**Last updated:** 2026-10-11 04:14:06 UTC
+**Last updated:** 2026-10-11 11:14:01 UTC
